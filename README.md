@@ -1,6 +1,6 @@
 # OOP - Intro to TS Exercise
 
-Complete the 5 exercises provided by adding types to the parameters and a type to the returned value of each function.
+Complete the 5 exercises by solving each problem and adding types to the parameters and returned value of each function.
 
 ## Instructions
 
