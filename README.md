@@ -1,4 +1,4 @@
-# OOP - Intro to TS Exercise
+# OOP and TS - Intro to TypeScript Exercise
 
 Complete the 5 exercises by solving each problem and adding types to the parameters and returned value of each function.
 
